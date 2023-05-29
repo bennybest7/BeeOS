@@ -11,7 +11,7 @@ A shell: functions the same as CraftOS
 install:
 WARNING: the files have to be put on a floppy disk for the OS to work
 1. start a computer with an inserted floppy disk
-2. run "wget run https://raw.githubusercontent.com/bennybest7/BeeOS/main/installer.lua"
+2. run 'wget run https://raw.githubusercontent.com/bennybest7/BeeOS/main/installer.lua'
 3. done!
 
 
