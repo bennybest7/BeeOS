@@ -15,9 +15,12 @@ WARNING: the files have to be put on a floppy disk for the OS to work
 1. download the files onto your real computer
 2. open minecraft
 3. make a disk
-4. go to the minecraft folder (of your CC installation)
-5. open "saves"
-6. open "computercraft"
-7. open "disks"
-8. open the id of the disk you wanna install it on
-9. drag the files onto disk
+4. close the game
+5. go to the minecraft folder (of your CC installation)
+6. open "saves"
+7. open your world
+8. open "computercraft"
+9. open "disks"
+10. open the id of the disk you wanna install it on
+11. drag the files onto disk
+12. enjoy
